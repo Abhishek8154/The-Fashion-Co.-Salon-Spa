@@ -1,0 +1,7 @@
+{
+  "name": "The Fashion Co. Salon & Spa",
+  "description": "Premium luxury salon and spa experience in Bhopal offering professional hair, beauty, and wellness services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
